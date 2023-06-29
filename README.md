@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] I restyled the colors of the website
+* [ ] I think it would be more helpful to implement a nav bar, either made independently or using a bootstrap template
+* [ ] I would also try to implement more animations for the game card
 
 ## Video Walkthrough
 
