@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: rgb(255, 255, 255);
 }
 
 #tentacles {
@@ -60,6 +60,7 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 7px;
+    background-color: gray;
 }
 
 .game-card:hover {
@@ -77,4 +78,5 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    background-color: gray;
 }
