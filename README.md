@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 <img src='https://imgur.com/a/lPBkFt3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,6 +37,9 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I think I found out how easier it is to use functions like reduce and filter instead of being overreliant on loops 
+It was challenging to sort the list of games and list the top two but I think I got the hang of it at the end!
 
 ## License
 
