@@ -38,8 +38,7 @@ GIF created with ScreenToGif
 
 Describe any challenges encountered while building the app.
 
-I think I found out how easier it is to use functions like reduce and filter instead of being overreliant on loops 
-It was challenging to sort the list of games and list the top two but I think I got the hang of it at the end!
+I think I found out how easier it is to use functions like reduce and filter instead of being overreliant on loops . It was challenging to sort the list of games and list the top two but I think I got the hang of it at the end!
 
 ## License
 
